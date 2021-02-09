@@ -1,1 +1,2 @@
-# sakura-communication-website-project
+# sakura-communication-website
+株式会社さくらコミュニケーションのホームページデザインと開発
